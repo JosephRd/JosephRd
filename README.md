@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Christian Joseph Radithya
 - 👀 I’m interesting in Data Analytics, Front-End Dev, etc
-- 🌱 I’m currently learning Computer Science at Binus University (2020)
+- 🌱 I’m currently learning Computer Science at Binus University (B24)
 - 📫 Reach me on my email josep.rd19@gmail.com
 
 
